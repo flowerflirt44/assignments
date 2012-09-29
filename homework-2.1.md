@@ -24,5 +24,38 @@ my_github_user/my_repository/path/to/file.php:42
     $name = do_something_amazing() + 1;
     // Variable: $name
     // Function: do_something_amazing()
+    
+
 ```
+
+flowerflirt44/newpoker2/card.php: 3
+``` php
+     class Card (
+        const JACK = 11;
+    // Constant: Jack = 11
+```
+    
+flowerflirt44/newpoker2/card.php: 24
+```php
+    public function getFaceValue()
+    // Function: getFaceValue()
+```
+
+flowerflirt44/newpoker2/community.php: 13
+```php
+    $this->_First = $Flop->getfirst();
+    // Variable: $this, $Flop
+    // Function: getfirst()
+    // assignment Operator: =
+```
+
+flowerflirt44/newpoker2/hearts.php: 3
+```php
+    class Hearts extends Card {
+        protected $_suit = Card::HEARTS;
+    }
+    // Variable: $_suit
+    // Constant: (protected $_suit = Card:: HEARTS)
+```
+
 
