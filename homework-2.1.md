@@ -60,3 +60,10 @@ flowerflirt44/newpoker2/hearts.php: 3
 ```
 
 
+al_the_x/some_awesome_project/path/to/some/file.php:42
+```php
+ if ( PHP == 'awesome' ) {
+ // Constant: PHP
+ // Comparison: ==
+ // String: 'awesome'
+```
